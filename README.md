@@ -6,6 +6,7 @@ Project for Askgov.ge
 ```
 pip3 install -r requirement.txt
 python3 main.py
+```
 
 # Image
 
