@@ -1,4 +1,4 @@
-# Police-Info-GE-
+# Police-Info-GE
 Georgian police information scrapper
 Project for Askgov.ge
 
